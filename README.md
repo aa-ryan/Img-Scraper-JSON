@@ -1,10 +1,6 @@
-# SIH_GraphicalPasswordAuthentication
+## How to Use
 
- ```
-	pip install -r requirements.txt
-	python scraper.py
- ```
-
- * Uses selenium and chromedriver which now comes as a python library "webdriver-manager"
- * Queries are built based on user input
-
+```
+   pip install -r requirements.txt
+   python jscp.py
+```
